@@ -1,2 +1,13 @@
 # Zero2HeroWork
-BNB训练营的作业
+BNB训练营第一次作业
+
+bsc测试链上无法部署SushiToken，我在水龙头领取了一些SepoliaETH，在ETH链上部署了这次合约    
+区块链浏览器:https://sepolia.etherscan.io/
+
+1. ZT币合约:0x1256485aE6fe1a1cCE354c1E5310A6b6D54BAFdE
+2. SushiToken合约:0xBb93456733Ffb291E958A884A7f083D3Cee44116
+3. MasterChep业务合约:0x90FAA28bb9fB866ed71daF12f7cf7E1C19Ed0740
+4. SushiToken合约owner设置成为该MasterChep:0x90b2673a530667dfdcc2dec121248536bc61b6d3ec3105ffee8afa49c74fc906
+5. 代币授权给MasterChep:0xae77b3949792b65181b2d73a1b338499bc6a0b4fe9bcfcde95412e400facf3c2
+6. 代币添加到质押池:0x495ab80ceadeda06bc447dbbec9f48838b25cbc508e3c9c4de9bc87ab5378769
+7. 质押6666 * 精度个ZT币:0x023fb796b350725a1b6414eb6d745b39b197189d1e1843ecd16420a239622a61
